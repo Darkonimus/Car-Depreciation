@@ -1,0 +1,4 @@
+selenium==4.9.1
+webdriver_manager==3.8.6
+matplotlib==3.7.1
+beautifulsoup4==4.12.2
